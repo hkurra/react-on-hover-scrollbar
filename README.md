@@ -1,6 +1,6 @@
 # react-on-hover-scrollbar
 This is a basic but usable Example of How to create a Custom Scrollbar in react which will be visible on mouse hovering in your Scroll-Host.
-[![ezgif-com-video-to-gif.gif](https://i.postimg.cc/X7rQ38Sv/ezgif-com-video-to-gif.gif)](https://postimg.cc/fJhxfYb4)
+[![](https://i.postimg.cc/X7rQ38Sv/ezgif-com-video-to-gif.gif)](https://postimg.cc/fJhxfYb4)
 
 ### Set-up
 * You can fork [This Codesand-Box Project](https://codesandbox.io/s/custom-scrollbar-on-hover-ps471) to run and play with this project
