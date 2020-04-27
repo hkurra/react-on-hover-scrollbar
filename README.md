@@ -5,7 +5,7 @@ This is a basic but usable Example of How to create a Custom Scrollbar in react 
 ### Set-up
 * You can fork [This Codesand-Box Project](https://codesandbox.io/s/custom-scrollbar-on-hover-ps471) to run and play with this project
 
-* You can also set-up this project on your machine through folowwing commands
+* You can also set-up this project on your machine through following commands
 * ``git clone https://github.com/hkurra/react-on-hover-scrollbar.git``
 * ``npm install ``
 * ``npm run ``
